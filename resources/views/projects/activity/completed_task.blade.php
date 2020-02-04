@@ -1,0 +1,1 @@
+<span class="capitalize">{{ $activity->user->name }}</span> قام بمراجعة {{$activity->subject->bill_num}}
